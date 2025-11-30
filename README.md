@@ -17,10 +17,9 @@
 
 ### :pencil2: Projects I've Worked On
 
+- [Beacon](https://github.com/mihavo/beacon), a real-time location sharing & geofencing platform.
 - [Nextfin](https://github.com/mihavo/nextfin), a secure and scalable backend platform for e-banking operations.
 - [Atlacity](https://atlacity.vercel.app) - a [Foursquare](https://foursquare.com/city-guide) inspired full stack web app that allows users to search and discover for new places.
-- [Ecommerce API](https://github.com/Michael-Vol/ecommerce-api) - An Ecommerce API for handling the back-end logic of an e-shop. Provides support for user accounts, cart management, product handling, transactions and many more.
-
 
 ###  :hammer_and_wrench: Languages and Tools I use  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
