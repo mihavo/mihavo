@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(humanizer)",
+      "Skill(humanizer:*)",
+      "WebSearch",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:hasnainm.hashnode.dev)",
+      "WebFetch(domain:drmowinckels.io)"
+    ]
+  }
+}
