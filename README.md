@@ -1,4 +1,4 @@
-## Hi, I'm Michael
+## Hi, I'm Michael :wave:
 
 Backend engineer focused on system architecture, distributed systems, and cloud.
 Currently working on distributed backend services with Spring and exploring patterns in enterprise-scale system design.
