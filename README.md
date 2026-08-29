@@ -15,5 +15,5 @@ Currently working on distributed backend services with Spring and exploring patt
 
 ### GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mihavo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=algolia)
+![Michael's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mihavo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=algolia&cache_seconds=86400)
 
